@@ -4,3 +4,5 @@
 3. It is made on C# .NET Framework. 
 4. Windows Form applications was used for it.
 5. Curretly it is multiplayer and its AI is under construction.
+
+![Alt Text](C:\Users\Hp pc\Desktop\Gomoku.JPG)
