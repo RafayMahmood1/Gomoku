@@ -5,4 +5,4 @@
 4. Windows Form applications was used for it.
 5. Curretly it is multiplayer and its AI is under construction.
 
-![Alt Text](C:\Users\Hp pc\Desktop\Gomoku.JPG)
+![Gomoku](C:\Users\Hp pc\Desktop\Gomoku.JPG)
